@@ -19,7 +19,7 @@ void ShowThirdDigit()
     }
     else
     {
-        Console.WriteLine("Вы ввели число меньше 100");
+        Console.WriteLine("Третьей цифры нет");
     }
 }
 
